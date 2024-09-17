@@ -55,4 +55,4 @@ The Request and Response Design Pattern is pervasive in software development, un
 
 - **REST APIs:** Representational State Transfer (REST) APIs rely heavily on the Request and Response pattern. Clients make HTTP requests to API endpoints, and the server processes these requests and responds with the required data, typically in JSON or XML format.
 - **SOAP APIs:** Simple Object Access Protocol (SOAP) is another API protocol that uses this pattern, where the request and response are formatted as XML messages.
-- **GraphQL:** In GraphQL APIs, the client sends a query request specifying exactly what data it needs. The server processes this query and responds with a structured JSON object containing only the requested data
+- **GraphQL:** In GraphQL APIs, the client sends a query request specifying exactly what data it needs. The server processes this query and responds with a structured JSON object containing only the requested data.
